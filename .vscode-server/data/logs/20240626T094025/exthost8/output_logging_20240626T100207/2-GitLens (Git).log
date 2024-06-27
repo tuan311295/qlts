@@ -1,0 +1,24 @@
+[2024-06-26 03:02:08.509] [     14ms] [/root] git rev-parse --show-toplevel • FAILED
+
+Error: Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+
+
+[2024-06-26 03:35:16.226] [      4ms] [/root/.dotnet/corefx/cryptography/crls] git rev-parse --show-toplevel • FAILED
+
+Error: Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+
+
+[2024-06-26 03:35:27.908] [      3ms] [/root/.dotnet/corefx/cryptography/crls] git rev-parse --show-toplevel • FAILED
+
+Error: Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+
+
+[2024-06-26 03:35:28.402] [      1ms] [/root/.dotnet/corefx/cryptography/crls] git rev-parse --show-toplevel • FAILED
+
+Error: Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+
+

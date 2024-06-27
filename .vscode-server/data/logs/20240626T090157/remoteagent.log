@@ -1,0 +1,80 @@
+2024-06-26 09:01:57.188 [info] 
+
+
+
+
+2024-06-26 09:01:57.197 [info] Extension host agent started.
+2024-06-26 09:01:57.237 [info] [<unknown>][50517c6d][ExtensionHostConnection] New connection established.
+2024-06-26 09:01:57.239 [info] Started initializing default profile extensions in extensions installation folder. file:///root/.vscode-server/extensions
+2024-06-26 09:01:57.243 [info] [<unknown>][4935c175][ManagementConnection] New connection established.
+2024-06-26 09:01:57.254 [info] Completed initializing default profile extensions in extensions installation folder. file:///root/.vscode-server/extensions
+2024-06-26 09:01:57.370 [info] [<unknown>][50517c6d][ExtensionHostConnection] <2418> Launched Extension Host Process.
+2024-06-26 09:03:05.057 [info] [<unknown>][146c8dd0][ManagementConnection] New connection established.
+2024-06-26 09:03:05.059 [info] [<unknown>][6f077efb][ExtensionHostConnection] New connection established.
+2024-06-26 09:03:05.065 [info] [<unknown>][6f077efb][ExtensionHostConnection] <2747> Launched Extension Host Process.
+2024-06-26 09:06:28.309 [info] [<unknown>][bc4ded04][ExtensionHostConnection] New connection established.
+2024-06-26 09:06:28.317 [info] [<unknown>][bc4ded04][ExtensionHostConnection] <3320> Launched Extension Host Process.
+2024-06-26 09:06:28.320 [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/root/.vscode-server/cli/servers/Stable-89de5a8d4d6205e5b11647eb6a74844ca23d2573/server/out/vs/server/node/server.main.js:191:6373)
+    at process.emit (node:events:518:28)
+2024-06-26 09:06:28.353 [info] [<unknown>][c28a4023][ManagementConnection] New connection established.
+2024-06-26 09:06:30.504 [error] CodeExpectedError: Could not find pty on pty host
+    at A.U (/root/.vscode-server/cli/servers/Stable-89de5a8d4d6205e5b11647eb6a74844ca23d2573/server/out/vs/platform/terminal/node/ptyHostMain.js:55:30556)
+    at A.updateTitle (/root/.vscode-server/cli/servers/Stable-89de5a8d4d6205e5b11647eb6a74844ca23d2573/server/out/vs/platform/terminal/node/ptyHostMain.js:55:25756)
+    at R.D.<computed> (/root/.vscode-server/cli/servers/Stable-89de5a8d4d6205e5b11647eb6a74844ca23d2573/server/out/vs/platform/terminal/node/ptyHostMain.js:55:21031)
+    at Object.call (/root/.vscode-server/cli/servers/Stable-89de5a8d4d6205e5b11647eb6a74844ca23d2573/server/out/vs/platform/terminal/node/ptyHostMain.js:36:5367)
+    at a.s (/root/.vscode-server/cli/servers/Stable-89de5a8d4d6205e5b11647eb6a74844ca23d2573/server/out/vs/platform/terminal/node/ptyHostMain.js:34:5482)
+    at a.q (/root/.vscode-server/cli/servers/Stable-89de5a8d4d6205e5b11647eb6a74844ca23d2573/server/out/vs/platform/terminal/node/ptyHostMain.js:34:4923)
+    at m.value (/root/.vscode-server/cli/servers/Stable-89de5a8d4d6205e5b11647eb6a74844ca23d2573/server/out/vs/platform/terminal/node/ptyHostMain.js:34:4223)
+    at r.y (/root/.vscode-server/cli/servers/Stable-89de5a8d4d6205e5b11647eb6a74844ca23d2573/server/out/vs/platform/terminal/node/ptyHostMain.js:29:668)
+    at r.fire (/root/.vscode-server/cli/servers/Stable-89de5a8d4d6205e5b11647eb6a74844ca23d2573/server/out/vs/platform/terminal/node/ptyHostMain.js:29:885)
+    at process.$e (/root/.vscode-server/cli/servers/Stable-89de5a8d4d6205e5b11647eb6a74844ca23d2573/server/out/vs/platform/terminal/node/ptyHostMain.js:25:11142)
+    at process.emit (node:events:518:28)
+    at emit (node:internal/child_process:951:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+2024-06-26 09:06:45.552 [info] [<unknown>][964ab623][ManagementConnection] New connection established.
+2024-06-26 09:06:45.554 [info] [<unknown>][927e5fd4][ExtensionHostConnection] New connection established.
+2024-06-26 09:06:45.556 [info] [<unknown>][927e5fd4][ExtensionHostConnection] <3445> Launched Extension Host Process.
+2024-06-26 09:06:57.198 [info] New EH opened, aborting shutdown
+2024-06-26 09:07:48.218 [info] [<unknown>][aa87da26][ManagementConnection] New connection established.
+2024-06-26 09:07:48.219 [info] [<unknown>][f555eb5d][ExtensionHostConnection] New connection established.
+2024-06-26 09:07:48.220 [info] [<unknown>][f555eb5d][ExtensionHostConnection] <3702> Launched Extension Host Process.
+2024-06-26 09:07:50.402 [error] CodeExpectedError: Could not find pty on pty host
+    at A.U (/root/.vscode-server/cli/servers/Stable-89de5a8d4d6205e5b11647eb6a74844ca23d2573/server/out/vs/platform/terminal/node/ptyHostMain.js:55:30556)
+    at A.updateTitle (/root/.vscode-server/cli/servers/Stable-89de5a8d4d6205e5b11647eb6a74844ca23d2573/server/out/vs/platform/terminal/node/ptyHostMain.js:55:25756)
+    at R.D.<computed> (/root/.vscode-server/cli/servers/Stable-89de5a8d4d6205e5b11647eb6a74844ca23d2573/server/out/vs/platform/terminal/node/ptyHostMain.js:55:21031)
+    at Object.call (/root/.vscode-server/cli/servers/Stable-89de5a8d4d6205e5b11647eb6a74844ca23d2573/server/out/vs/platform/terminal/node/ptyHostMain.js:36:5367)
+    at a.s (/root/.vscode-server/cli/servers/Stable-89de5a8d4d6205e5b11647eb6a74844ca23d2573/server/out/vs/platform/terminal/node/ptyHostMain.js:34:5482)
+    at a.q (/root/.vscode-server/cli/servers/Stable-89de5a8d4d6205e5b11647eb6a74844ca23d2573/server/out/vs/platform/terminal/node/ptyHostMain.js:34:4923)
+    at m.value (/root/.vscode-server/cli/servers/Stable-89de5a8d4d6205e5b11647eb6a74844ca23d2573/server/out/vs/platform/terminal/node/ptyHostMain.js:34:4223)
+    at r.y (/root/.vscode-server/cli/servers/Stable-89de5a8d4d6205e5b11647eb6a74844ca23d2573/server/out/vs/platform/terminal/node/ptyHostMain.js:29:668)
+    at r.fire (/root/.vscode-server/cli/servers/Stable-89de5a8d4d6205e5b11647eb6a74844ca23d2573/server/out/vs/platform/terminal/node/ptyHostMain.js:29:885)
+    at process.$e (/root/.vscode-server/cli/servers/Stable-89de5a8d4d6205e5b11647eb6a74844ca23d2573/server/out/vs/platform/terminal/node/ptyHostMain.js:25:11142)
+    at process.emit (node:events:518:28)
+    at emit (node:internal/child_process:951:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+2024-06-26 09:08:05.290 [info] [<unknown>][50517c6d][ExtensionHostConnection] <2418> Extension Host Process exited with code: 0, signal: null.
+2024-06-26 09:09:23.562 [info] [<unknown>][6e513c61][ExtensionHostConnection] New connection established.
+2024-06-26 09:09:23.564 [info] [<unknown>][6e513c61][ExtensionHostConnection] <3878> Launched Extension Host Process.
+2024-06-26 09:09:23.606 [info] [<unknown>][877eed07][ManagementConnection] New connection established.
+2024-06-26 09:11:28.583 [info] [<unknown>][6f077efb][ExtensionHostConnection] <2747> Extension Host Process exited with code: 0, signal: null.
+2024-06-26 09:11:45.928 [info] [<unknown>][bc4ded04][ExtensionHostConnection] <3320> Extension Host Process exited with code: 0, signal: null.
+2024-06-26 09:12:48.510 [info] [<unknown>][927e5fd4][ExtensionHostConnection] <3445> Extension Host Process exited with code: 0, signal: null.
+2024-06-26 09:14:23.830 [info] [<unknown>][f555eb5d][ExtensionHostConnection] <3702> Extension Host Process exited with code: 0, signal: null.
+2024-06-26 09:41:58.034 [info] Extensions added from another source golang.go file:///root/.vscode-server/extensions/extensions.json
+2024-06-26 09:41:58.323 [info] Extensions added from another source redhat.vscode-yaml file:///root/.vscode-server/extensions/extensions.json
+2024-06-26 09:41:58.323 [info] Extensions added from another source yzhang.markdown-all-in-one file:///root/.vscode-server/extensions/extensions.json
+2024-06-26 09:41:59.025 [info] Extensions added from another source timonwong.shellcheck file:///root/.vscode-server/extensions/extensions.json
+2024-06-26 09:41:59.287 [info] Extensions added from another source ms-python.black-formatter file:///root/.vscode-server/extensions/extensions.json
+2024-06-26 09:41:59.847 [info] Extensions added from another source ms-python.debugpy file:///root/.vscode-server/extensions/extensions.json
+2024-06-26 09:42:01.844 [info] Extensions added from another source ms-python.python file:///root/.vscode-server/extensions/extensions.json
+2024-06-26 09:42:14.356 [info] Extensions added from another source ms-python.vscode-pylance file:///root/.vscode-server/extensions/extensions.json
+2024-06-26 09:44:34.103 [info] Extensions added from another source donjayamanne.git-extension-pack file:///root/.vscode-server/extensions/extensions.json
+2024-06-26 09:44:34.295 [info] Extensions added from another source codezombiech.gitignore file:///root/.vscode-server/extensions/extensions.json
+2024-06-26 09:44:34.584 [info] Extensions added from another source donjayamanne.githistory file:///root/.vscode-server/extensions/extensions.json
+2024-06-26 09:44:34.782 [info] Extensions added from another source ziyasal.vscode-open-in-github file:///root/.vscode-server/extensions/extensions.json
+2024-06-26 09:44:34.975 [info] Extensions added from another source alefragnani.project-manager file:///root/.vscode-server/extensions/extensions.json
+2024-06-26 09:44:36.377 [info] Extensions added from another source eamodio.gitlens file:///root/.vscode-server/extensions/extensions.json
+2024-06-26 12:12:02.280 [info] [<unknown>][6e513c61][ExtensionHostConnection] <3878> Extension Host Process exited with code: 0, signal: null.
+2024-06-26 12:12:02.281 [info] Last EH closed, waiting before shutting down
+2024-06-26 12:17:02.282 [info] Last EH closed, shutting down

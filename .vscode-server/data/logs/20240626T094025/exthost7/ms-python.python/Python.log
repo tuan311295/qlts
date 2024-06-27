@@ -1,0 +1,34 @@
+2024-06-26 10:00:48.282 [info] Experiment 'pythonaacf' is active
+2024-06-26 10:00:48.283 [info] Experiment 'pythonCreateEnvOnPipInstall' is active
+2024-06-26 10:00:48.283 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-06-26 10:00:48.283 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-06-26 10:00:48.283 [info] Experiment 'pythonTestAdapter' is active
+2024-06-26 10:00:48.334 [info] Starting Environment refresh
+2024-06-26 10:00:48.334 [info] Searching for interpreters in posix paths locator
+2024-06-26 10:00:48.339 [info] Searching for pyenv environments
+2024-06-26 10:00:48.339 [info] Searching for conda environments
+2024-06-26 10:00:48.340 [info] Searching for global virtual environments
+2024-06-26 10:00:48.340 [info] Searching for custom virtual environments
+2024-06-26 10:00:48.400 [info] pyenv is not installed
+2024-06-26 10:00:48.401 [info] Finished searching for pyenv environments: 65 milliseconds
+2024-06-26 10:00:48.402 [info] Finished searching for custom virtual envs: 67 milliseconds
+2024-06-26 10:00:48.407 [info] > conda info --json
+2024-06-26 10:00:48.446 [info] Finished searching for global virtual envs: 111 milliseconds
+2024-06-26 10:00:48.450 [info] > /usr/share/anaconda/bin/conda info --json
+2024-06-26 10:00:48.454 [info] > ~/anaconda-ks.cfg/bin/conda info --json
+2024-06-26 10:00:48.457 [info] Found: /bin/python --> /bin/python3.9
+2024-06-26 10:00:48.458 [info] Found: /bin/python3 --> /bin/python3.9
+2024-06-26 10:00:48.459 [info] Found: /bin/python3.9 --> /bin/python3.9
+2024-06-26 10:00:48.462 [info] Found: /usr/bin/python --> /usr/bin/python3.9
+2024-06-26 10:00:48.462 [info] Found: /usr/bin/python3 --> /usr/bin/python3.9
+2024-06-26 10:00:48.462 [info] Found: /usr/bin/python3.9 --> /usr/bin/python3.9
+2024-06-26 10:00:48.493 [info] Finished searching for interpreters in posix paths locator: 159 milliseconds
+2024-06-26 10:00:48.494 [info] > /bin/python -I ~/.vscode-server/extensions/ms-python.python-2024.8.1/python_files/get_output_via_markers.py ~/.vscode-server/extensions/ms-python.python-2024.8.1/python_files/interpreterInfo.py
+2024-06-26 10:00:48.502 [info] > /usr/bin/python -I ~/.vscode-server/extensions/ms-python.python-2024.8.1/python_files/get_output_via_markers.py ~/.vscode-server/extensions/ms-python.python-2024.8.1/python_files/interpreterInfo.py
+2024-06-26 10:00:48.502 [info] Environments refresh paths discovered (event): 171 milliseconds
+2024-06-26 10:00:48.503 [info] Environments refresh paths discovered: 172 milliseconds
+2024-06-26 10:00:48.546 [info] Environments refresh finished (event): 215 milliseconds
+2024-06-26 10:00:48.554 [info] Environment refresh took 222 milliseconds
+2024-06-26 10:00:48.556 [info] Python interpreter path: /bin/python
+2024-06-26 10:00:49.598 [info] Shell integration status changed, can confirm it's working.
+2024-06-26 10:00:50.977 [info] Starting Pylance language server.

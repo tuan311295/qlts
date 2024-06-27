@@ -1,0 +1,25 @@
+2024-06-26 09:40:57.747 [info] Log level: Info
+2024-06-26 09:40:57.747 [info] Validating found git in: "git"
+2024-06-26 09:40:57.747 [info] Using git "2.43.0" from "git"
+2024-06-26 09:40:57.747 [info] > git rev-parse --show-toplevel [25ms]
+2024-06-26 09:40:57.748 [info] > git rev-parse --git-dir --git-common-dir [6ms]
+2024-06-26 09:40:57.756 [info] Open repository: /root/rook
+2024-06-26 09:40:57.766 [info] > git config --get commit.template [5ms]
+2024-06-26 09:40:57.789 [info] > git rev-parse --show-toplevel [26ms]
+2024-06-26 09:40:57.805 [info] > git rev-parse --show-toplevel [11ms]
+2024-06-26 09:40:57.805 [info] > git for-each-ref --format %(refname) %(objectname) %(*objectname) refs/tags [13ms]
+2024-06-26 09:40:57.814 [info] > git rev-parse --show-toplevel [4ms]
+2024-06-26 09:40:57.818 [info] > git rev-parse --show-toplevel [2ms]
+2024-06-26 09:40:57.821 [info] > git rev-parse --show-toplevel [1ms]
+2024-06-26 09:40:57.824 [info] > git rev-parse --show-toplevel [1ms]
+2024-06-26 09:40:57.827 [info] > git rev-parse --show-toplevel [1ms]
+2024-06-26 09:40:57.830 [info] > git rev-parse --show-toplevel [1ms]
+2024-06-26 09:40:57.833 [info] > git rev-parse --show-toplevel [1ms]
+2024-06-26 09:40:57.835 [info] > git rev-parse --show-toplevel [1ms]
+2024-06-26 09:40:57.839 [info] > git rev-parse --show-toplevel [1ms]
+2024-06-26 09:40:57.862 [info] > git status -z -uall [54ms]
+2024-06-26 09:40:57.873 [info] > git config --get commit.template [4ms]
+2024-06-26 09:40:57.874 [info] > git for-each-ref --format %(refname) %(objectname) %(*objectname) refs/tags [3ms]
+2024-06-26 09:40:57.927 [info] > git status -z -uall [50ms]
+2024-06-26 09:40:58.294 [info] > git check-ignore -v -z --stdin [9ms]
+2024-06-26 09:42:32.941 [info] > git check-ignore -v -z --stdin [6ms]

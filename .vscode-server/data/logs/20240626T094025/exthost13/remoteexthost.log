@@ -1,0 +1,53 @@
+2024-06-26 10:41:12.861 [info] Extension host with pid 30339 started
+2024-06-26 10:41:12.861 [error] Error: EEXIST: file already exists, open '/root/.vscode-server/data/User/workspaceStorage/1991fe87fc2d49c574858eb45a6f7235/vscode.lock'
+2024-06-26 10:41:12.925 [info] Lock '/root/.vscode-server/data/User/workspaceStorage/1991fe87fc2d49c574858eb45a6f7235/vscode.lock': Could not acquire lock, checking if the file is stale.
+2024-06-26 10:41:12.936 [info] ExtensionService#_doActivateExtension redhat.vscode-yaml, startup: false, activationEvent: 'onLanguage:yaml'
+2024-06-26 10:41:12.937 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-06-26 10:41:13.181 [info] Lock '/root/.vscode-server/data/User/workspaceStorage/1991fe87fc2d49c574858eb45a6f7235/vscode.lock': The lock does not look stale, elapsed: 515 ms, giving up.
+2024-06-26 10:41:13.187 [info] Lock '/root/.vscode-server/data/User/workspaceStorage/1991fe87fc2d49c574858eb45a6f7235-1/vscode.lock': Lock acquired.
+2024-06-26 10:41:13.308 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-06-26 10:41:13.321 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-06-26 10:41:13.321 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-06-26 10:41:15.131 [warning] [redhat.vscode-yaml] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for '[yaml]', provide the URI of a resource or 'null' for any resource.
+2024-06-26 10:41:15.131 [warning] [redhat.vscode-yaml] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for '[yaml]', provide the URI of a resource or 'null' for any resource.
+2024-06-26 10:41:15.514 [info] Eager extensions activated
+2024-06-26 10:41:15.514 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-06-26 10:41:15.522 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-06-26 10:41:15.524 [info] ExtensionService#_doActivateExtension eamodio.gitlens, startup: false, activationEvent: 'onStartupFinished'
+2024-06-26 10:46:51.819 [warning] TextEditor is closed/disposed
+2024-06-26 10:46:53.151 [warning] TextEditor is closed/disposed
+2024-06-26 10:46:54.224 [warning] TextEditor is closed/disposed
+2024-06-26 10:46:59.844 [warning] TextEditor is closed/disposed
+2024-06-26 10:47:01.126 [warning] TextEditor is closed/disposed
+2024-06-26 10:47:02.513 [warning] TextEditor is closed/disposed
+2024-06-26 10:47:04.997 [warning] TextEditor is closed/disposed
+2024-06-26 10:47:08.553 [warning] TextEditor is closed/disposed
+2024-06-26 10:47:23.979 [warning] TextEditor is closed/disposed
+2024-06-26 10:47:29.102 [warning] TextEditor is closed/disposed
+2024-06-26 10:47:33.562 [warning] TextEditor is closed/disposed
+2024-06-26 10:47:37.147 [warning] TextEditor is closed/disposed
+2024-06-26 10:47:40.284 [warning] TextEditor is closed/disposed
+2024-06-26 10:47:42.541 [warning] TextEditor is closed/disposed
+2024-06-26 10:48:38.959 [warning] TextEditor is closed/disposed
+2024-06-26 10:48:42.128 [warning] TextEditor is closed/disposed
+2024-06-26 10:49:08.661 [info] ExtensionService#_doActivateExtension vscode.grunt, startup: false, activationEvent: 'onTaskType:grunt'
+2024-06-26 10:49:08.661 [info] ExtensionService#_doActivateExtension vscode.gulp, startup: false, activationEvent: 'onTaskType:gulp'
+2024-06-26 10:49:08.661 [info] ExtensionService#_doActivateExtension vscode.jake, startup: false, activationEvent: 'onTaskType:jake'
+2024-06-26 10:49:08.661 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTaskType:npm'
+2024-06-26 10:49:08.661 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onTaskType:typescript'
+2024-06-26 10:49:08.661 [info] ExtensionService#_doActivateExtension golang.go, startup: false, activationEvent: 'onTaskType:go'
+2024-06-26 10:49:09.008 [error] Activating extension golang.go failed due to an error:
+2024-06-26 10:49:09.009 [error] undefined
+2024-06-26 10:49:09.198 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+2024-06-26 10:49:09.198 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+2024-06-26 10:51:36.401 [warning] TextEditor is closed/disposed
+2024-06-26 10:51:37.053 [warning] TextEditor is closed/disposed
+2024-06-26 10:51:37.728 [warning] TextEditor is closed/disposed
+2024-06-26 10:51:45.862 [warning] TextEditor is closed/disposed
+2024-06-26 10:57:50.441 [warning] TextEditor is closed/disposed
+2024-06-26 10:57:52.332 [warning] TextEditor is closed/disposed
+2024-06-26 10:57:53.826 [warning] TextEditor is closed/disposed
+2024-06-26 10:57:54.792 [warning] TextEditor is closed/disposed
+2024-06-26 10:57:55.615 [warning] TextEditor is closed/disposed
+2024-06-26 11:00:25.100 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2024-06-26 11:00:25.164 [info] ExtensionService#_doActivateExtension timonwong.shellcheck, startup: false, activationEvent: 'onLanguage:shellscript'
